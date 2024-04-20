@@ -1,4 +1,4 @@
-Registration Form :
-Registration form to sign up and Login
-and store user information using HTML,
-CSS, Node.js in MongoDB.
+Blog Website :
+Blog website for reading and
+writing posts using HTML, CSS, Node.js
+and MongoDB for data storage.
